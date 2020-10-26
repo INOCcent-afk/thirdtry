@@ -1,0 +1,15 @@
+.home-second-hero {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("./images/6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  &-content {
+    color: #fff;
+  }
+}
